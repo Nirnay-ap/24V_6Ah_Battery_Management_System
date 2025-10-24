@@ -1,6 +1,6 @@
 🔋 24V 6Ah Battery Management System
 
-<div id="header" align="center"> <img src="bms_customboard.png" width="800"/> </div>
+<div id="header" align="center"> <img src="bms_customboard.png" width="900"/> </div>
 
 📋 Project Overview
 A sophisticated 24V 6Ah Battery Management System using STM32F103C8T6 microcontroller and Texas Instruments BQ76952 . Provides comprehensive battery monitoring, protection, and management for 8-series lithium-phosphate cells.

@@ -23,7 +23,7 @@ A sophisticated 24V 6Ah Battery Management System using STM32F103C8T6 microcontr
 ![BMS](https://img.shields.io/badge/Over_Voltage-Protection-FF6B6B?style=flat-square)
 ![BMS](https://img.shields.io/badge/Under_Voltage-Protection-4ECDC4?style=flat-square)
 ![BMS](https://img.shields.io/badge/Current_Monitoring-6A_Range-45B7D1?style=flat-square)
-![BMS](https://img.shields.io/badge/Temperature_-40%C2%B0C_to_85%C2%B0C-F7B731?style=flat-square
+![BMS](https://img.shields.io/badge/Temperature_-40%C2%B0C_to_85%C2%B0C-F7B731?style=flat-square)
 
 
 

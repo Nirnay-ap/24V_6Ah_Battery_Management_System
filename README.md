@@ -2,6 +2,9 @@
 
 
 ![BMS](https://img.shields.io/badge/BMS-24V_6Ah-3776AB?style=for-the-badge)
+![BMS](https://img.shields.io/badge/STM32F103C8T6-Blue_Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![BMS](https://img.shields.io/badge/TI-BQ76952-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+
 
 <div id="header" align="center"> <img src="bms_customboard.png" width="750"/> </div>
 

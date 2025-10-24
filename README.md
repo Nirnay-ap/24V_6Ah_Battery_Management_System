@@ -1,4 +1,6 @@
 🔋 24V 6Ah Battery Management System
+
+
 ![BMS](https://img.shields.io/badge/BMS-24V_6Ah-3776AB?style=for-the-badge)
 
 <div id="header" align="center"> <img src="bms_customboard.png" width="750"/> </div>
@@ -11,6 +13,8 @@ This repository contains the firmware for a 24V 6Ah Battery Management System (B
 
 🔧 Technical Skills
 💻 Programming & Development
+
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 

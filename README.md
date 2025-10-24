@@ -1,9 +1,2 @@
-
-# 🔋 24V 6Ah Battery Management System
-
-<div align="center">
-  
-![BMS Project](bms_customboard.png)
-*BMS Hardware Setup - STM32 with BQ76952*
-
-</div>
+🔋 24V 6Ah Battery Management System
+<div id="header" align="center"> <img src="bms_customboard.png" width="850"/> </div>

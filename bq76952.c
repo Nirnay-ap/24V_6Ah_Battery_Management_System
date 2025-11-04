@@ -6,7 +6,7 @@ static I2C_HandleTypeDef *bq_i2c;
 #define BQ76952_I2C_ADDR 0x10
 #define NUM_CELLS 7  // Define constant for number of cells
 
-// Helper functions for I2C communication (assuming these exist in your project)
+// Helper functions for I2C communication 
 extern HAL_StatusTypeDef i2c_write_reg(uint16_t dev_addr, uint16_t reg_addr, uint8_t *data, uint16_t len);
 extern HAL_StatusTypeDef i2c_read_reg(uint16_t dev_addr, uint16_t reg_addr, uint8_t *data, uint16_t len);
 
@@ -135,3 +135,4 @@ uint8_t bq76952_HandleAlarm(void)
   return 0;
 #endif
 }
+

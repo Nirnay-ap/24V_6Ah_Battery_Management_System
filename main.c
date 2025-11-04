@@ -7,7 +7,7 @@ void StartDefaultTask(void *argument)
 
   for(;;)
   {
-    int cellArray[7] = {0};  // Changed to 7 cells
+    int cellArray[7] = {0};  // 7 cells
     bool isConnected = bq76952_isConnected();
     unsigned int deviceNumber = bq76952_getDeviceNumber();
 
@@ -19,10 +19,10 @@ void StartDefaultTask(void *argument)
 
     // Calculate State of Charge (integer math only)
     int avg_voltage = 0;
-    for (int i = 0; i < 7; i++) {  // Changed to 7 cells
+    for (int i = 0; i < 7; i++) {  //  7 cells
       avg_voltage += cellArray[i];
     }
-    avg_voltage /= 7;  // Changed to 7 cells
+    avg_voltage /= 7;  //  7 cells
 
     int soc = 0;
     if (avg_voltage >= 3000 && avg_voltage <= 4200) {
@@ -70,3 +70,4 @@ void StartDefaultTask(void *argument)
     osDelay(1000);
   }
 }
+
